@@ -1,5 +1,5 @@
 # pokemon_card_viewer
-
+i have done all the requirements. i took help of online AI, W3 Schools and my classmates.
 A new Flutter project.
 
 ## Getting Started
